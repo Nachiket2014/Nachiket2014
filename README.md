@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**Nachiket2014/Nachiket2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nachiket Avhad 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst | Computer Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm pursuing a B.Tech in Computer Engineering at Sandip Institute of Technology and Research Centre (SITRC), Nashik.
+
+I'm developing my skills in data analytics, data visualization, and business intelligence through continuous learning and practical projects.
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Business Intelligence:** Microsoft Excel, Power BI
+- **Version Control:** Git and GitHub
+
+### 📚 Learning & Development
+
+- Strengthening Python and SQL skills.
+- Practising data analysis and visualization.
+- Developing practical analytics projects.
+- Exploring business intelligence and data-driven insights.
+
+### 🎓 Education
+
+**B.Tech in Computer Engineering**  
+Sandip Institute of Technology and Research Centre (SITRC), Nashik  
+Expected Graduation: 2029
+
+### 📜 Certification
+
+Python for Everybody Specialization — University of Michigan (Coursera)
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/nachiket-avhad-9b0217380/
+- **GitHub:** https://github.com/Nachiket2014
+- **Email:** nachiketavhad20@gmail.com
